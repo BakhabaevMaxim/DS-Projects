@@ -1,12 +1,12 @@
 # DS-Projects
 Data science projects (Yandex Practicum)
 Projects:
-| Projects      | Description   | link  |
+| Projects      | Description   | Применяемые инструменты  |
 | ------------- |:-------------:| :-----:|
-| Data protection      | проект по шифровке данных | [Data protection](https://github.com/BakhabaevMaxim/DS-Projects/tree/Games-analysis-and-research/Data%20protection) |
-| Games analysis and research      | исследование рынка компьютерных игр      |   https://github.com/BakhabaevMaxim/DS-Projects/tree/Games-analysis-and-research/Games%20analysis%20and%20research |
-| ML Toxic comments | проект по определению токсичных комментариев      |    https://github.com/BakhabaevMaxim/DS-Projects/tree/Games-analysis-and-research/Gold%20Recovery |
-| Gold Recovery | проект по поиску оптимальных параметров при очистке золотосодержащих руд      |    https://github.com/BakhabaevMaxim/DS-Projects/tree/Games-analysis-and-research/ML%20Toxic%20comments |
-| Temperature Prediction | проект предсказывающий конечную температуру сплава      |    https://github.com/BakhabaevMaxim/DS-Projects/tree/Games-analysis-and-research/Temperature%20prediction|
+| [Data protection](https://github.com/BakhabaevMaxim/DS-Projects/tree/Games-analysis-and-research/Data%20protection)      | проект по шифровке данных |  numpy, pandas, matplotlib.pyplot, sklearn, machine learning |
+| [Games analysis and research](https://github.com/BakhabaevMaxim/DS-Projects/tree/Games-analysis-and-research/Games%20analysis%20and%20research)      | исследование рынка компьютерных игр      | pandas, seaborn, matplotlib.pyplot, numpy, scipy  |
+| [ML Toxic comments](https://github.com/BakhabaevMaxim/DS-Projects/tree/Games-analysis-and-research/Gold%20Recovery) | проект по определению токсичных комментариев      |   pandas, numpy, sklearn, spacy, joblib, machine learning  |
+| [Gold Recovery](https://github.com/BakhabaevMaxim/DS-Projects/tree/Games-analysis-and-research/ML%20Toxic%20comments) | проект по поиску оптимальных параметров при очистке золотосодержащих руд      | pandas, numpy, seaborn, matplotlib.pyplot, scipy.stats, sklearn, machine learning |
+| [Temperature Prediction](https://github.com/BakhabaevMaxim/DS-Projects/tree/Games-analysis-and-research/Temperature%20prediction) | проект предсказывающий конечную температуру сплава      | pandas, numpy, matplotlib.pyplot, datetime, seaborn, sklearn, machine learning | 
 
 
